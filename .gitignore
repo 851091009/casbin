@@ -1,0 +1,7 @@
+main
+.idea
+.DS_Store
+/node_modules
+/vendor
+main.exe
+main
